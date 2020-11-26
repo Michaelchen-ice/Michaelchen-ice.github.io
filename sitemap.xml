@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite-url/2020/11/26/Spring-Boot-Export-Jar/</loc>
+    
+    <lastmod>2020-11-26</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite-url/2020/11/26/spring-bootExcel/</loc>
     
     <lastmod>2020-11-26</lastmod>
@@ -103,6 +110,13 @@
   
   <url>
     <loc>http://yoursite-url/tags/Excel/</loc>
+    <lastmod>2020-11-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/Export/</loc>
     <lastmod>2020-11-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
