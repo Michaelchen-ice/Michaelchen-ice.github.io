@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite-url/2020/11/26/Timer/</loc>
+    
+    <lastmod>2020-11-26</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite-url/2020/04/17/Hexo-Theme-LiveMyLife/</loc>
     
-    <lastmod>2020-09-20</lastmod>
+    <lastmod>2020-11-26</lastmod>
     
   </url>
   
@@ -66,10 +73,38 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://yoursite-url/tags/Java/</loc>
+    <lastmod>2020-11-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/Spring-Boot/</loc>
+    <lastmod>2020-11-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/Timer/</loc>
+    <lastmod>2020-11-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
     <loc>http://yoursite-url/categories/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2020-11-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/categories/Spring-Boot/</loc>
     <lastmod>2020-11-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
