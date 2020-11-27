@@ -67,7 +67,7 @@
 
   <url>
     <loc>http://yoursite-url/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,49 +75,49 @@
   
   <url>
     <loc>http://yoursite-url/tags/Hexo/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/Java/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/Spring-Boot/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/Timer/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/Excel/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/Export/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -126,14 +126,14 @@
   
   <url>
     <loc>http://yoursite-url/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/categories/Spring-Boot/</loc>
-    <lastmod>2020-11-26</lastmod>
+    <lastmod>2020-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
