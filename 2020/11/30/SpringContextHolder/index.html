@@ -270,11 +270,10 @@
 	<!-- Modified by Yu-Hsuan Yen -->
 <!-- Post Header -->
 
-  <!-- CDN: jsdelivr start -->
   <style type="text/css">
     header.intro-header {
        /*post*/
-        background-image: url('https://cdn.jsdelivr.net/gh/Michaelchen-ice/Michaelchen-ice.github.io/https://w.wallhaven.cc/full/rd/wallhaven-rd3jv7.jpg');
+        background-image: url('https://w.wallhaven.cc/full/rd/wallhaven-rd3jv7.jpg');
       
     }
 
@@ -284,7 +283,6 @@
       }
     
   </style>
-  <!-- CDN: jsdelivr end -->
 
 
 
@@ -747,29 +745,6 @@
   <!-- ThemeColor end -->
 
 
-
-  <!-- CDN: jsdelivr start -->
-  <script type="text/javascript">
-    let imgsUrl = document.getElementsByTagName("img");
-    let imgUrl = Array.from(imgsUrl);
-
-    let jsdelivr = "https://cdn.jsdelivr.net/gh/";
-    let gh = "Michaelchen-ice";
-    let ghPages = gh + ".github.io";
-    let pagePath = "2020/11/30/SpringContextHolder/";
-    let jsdelivrurl;
-    if (pagePath.indexOf("index.html") != -1) {
-      jsdelivrurl = jsdelivr + gh + "/" + ghPages;
-    }else{
-      jsdelivrurl = jsdelivr + gh + "/" + ghPages + "/" + pagePath;
-    }
-    imgUrl.forEach(item => {
-      let oldUrl = item.getAttribute("src");
-      let newUrl = oldUrl.replace(oldUrl, jsdelivrurl + oldUrl).replace("..","");
-      item.setAttribute("src", newUrl);
-    });
-  </script>
-  <!-- CDN: jsdelivr end -->
 
 
 
