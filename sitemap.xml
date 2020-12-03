@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>https://michaelchen-ice.github.io/2020/12/03/MIPS/</loc>
+    
+    <lastmod>2020-12-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://michaelchen-ice.github.io/2020/11/30/SpringContextHolder/</loc>
     
     <lastmod>2020-11-30</lastmod>
@@ -220,6 +227,20 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://michaelchen-ice.github.io/tags/MIPS/</loc>
+    <lastmod>2020-12-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelchen-ice.github.io/tags/Notes/</loc>
+    <lastmod>2020-12-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -252,6 +273,13 @@
   
   <url>
     <loc>https://michaelchen-ice.github.io/categories/English/</loc>
+    <lastmod>2020-12-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelchen-ice.github.io/categories/Notes/</loc>
     <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
