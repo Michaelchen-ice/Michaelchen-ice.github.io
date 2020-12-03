@@ -86,13 +86,6 @@
   </url>
   
   <url>
-    <loc>https://michaelchen-ice.github.io/about/index.html</loc>
-    
-    <lastmod>2020-09-20</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://michaelchen-ice.github.io/archive/index.html</loc>
     
     <lastmod>2020-09-20</lastmod>
@@ -108,6 +101,13 @@
   
   <url>
     <loc>https://michaelchen-ice.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-09-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://michaelchen-ice.github.io/about/index.html</loc>
     
     <lastmod>2020-09-20</lastmod>
     
@@ -137,7 +137,14 @@
   </url>
   
   <url>
-    <loc>https://michaelchen-ice.github.io/tags/Java/</loc>
+    <loc>https://michaelchen-ice.github.io/tags/MIPS/</loc>
+    <lastmod>2020-12-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelchen-ice.github.io/tags/Notes/</loc>
     <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -151,6 +158,20 @@
   </url>
   
   <url>
+    <loc>https://michaelchen-ice.github.io/tags/Export/</loc>
+    <lastmod>2020-12-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelchen-ice.github.io/tags/Bean/</loc>
+    <lastmod>2020-12-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://michaelchen-ice.github.io/tags/Timer/</loc>
     <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
@@ -158,14 +179,7 @@
   </url>
   
   <url>
-    <loc>https://michaelchen-ice.github.io/tags/Excel/</loc>
-    <lastmod>2020-12-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://michaelchen-ice.github.io/tags/Export/</loc>
+    <loc>https://michaelchen-ice.github.io/tags/Java/</loc>
     <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -179,7 +193,14 @@
   </url>
   
   <url>
-    <loc>https://michaelchen-ice.github.io/tags/WebSocket/</loc>
+    <loc>https://michaelchen-ice.github.io/tags/hexo/</loc>
+    <lastmod>2020-12-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelchen-ice.github.io/tags/Excel/</loc>
     <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -207,35 +228,14 @@
   </url>
   
   <url>
+    <loc>https://michaelchen-ice.github.io/tags/WebSocket/</loc>
+    <lastmod>2020-12-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://michaelchen-ice.github.io/tags/English/</loc>
-    <lastmod>2020-12-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://michaelchen-ice.github.io/tags/Bean/</loc>
-    <lastmod>2020-12-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://michaelchen-ice.github.io/tags/hexo/</loc>
-    <lastmod>2020-12-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://michaelchen-ice.github.io/tags/MIPS/</loc>
-    <lastmod>2020-12-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://michaelchen-ice.github.io/tags/Notes/</loc>
     <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -245,6 +245,13 @@
   
   <url>
     <loc>https://michaelchen-ice.github.io/categories/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2020-12-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelchen-ice.github.io/categories/Notes/</loc>
     <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -273,13 +280,6 @@
   
   <url>
     <loc>https://michaelchen-ice.github.io/categories/English/</loc>
-    <lastmod>2020-12-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://michaelchen-ice.github.io/categories/Notes/</loc>
     <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
