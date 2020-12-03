@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://michaelchen-ice.github.io/2020/12/03/sitemap/</loc>
+    
+    <lastmod>2020-12-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://michaelchen-ice.github.io/2020/11/30/SpringContextHolder/</loc>
     
     <lastmod>2020-11-30</lastmod>
@@ -102,7 +109,7 @@
 
   <url>
     <loc>https://michaelchen-ice.github.io/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -110,98 +117,105 @@
   
   <url>
     <loc>https://michaelchen-ice.github.io/tags/Hexo/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://michaelchen-ice.github.io/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://michaelchen-ice.github.io/tags/Java/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://michaelchen-ice.github.io/tags/Spring-Boot/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://michaelchen-ice.github.io/tags/Timer/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://michaelchen-ice.github.io/tags/Excel/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://michaelchen-ice.github.io/tags/Export/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://michaelchen-ice.github.io/tags/RXTXComm/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://michaelchen-ice.github.io/tags/WebSocket/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://michaelchen-ice.github.io/tags/webCamera/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://michaelchen-ice.github.io/tags/h5/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://michaelchen-ice.github.io/tags/html/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://michaelchen-ice.github.io/tags/English/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://michaelchen-ice.github.io/tags/Bean/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelchen-ice.github.io/tags/hexo/</loc>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -210,35 +224,35 @@
   
   <url>
     <loc>https://michaelchen-ice.github.io/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://michaelchen-ice.github.io/categories/Spring-Boot/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://michaelchen-ice.github.io/categories/Java/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://michaelchen-ice.github.io/categories/html/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://michaelchen-ice.github.io/categories/English/</loc>
-    <lastmod>2020-11-30</lastmod>
+    <lastmod>2020-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
