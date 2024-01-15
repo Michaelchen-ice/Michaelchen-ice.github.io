@@ -1,6 +1,8 @@
 ---
 layout: "about"
 title: "About"
+date: 
+description: ""
 header-img: "https://w.wallhaven.cc/full/x6/wallhaven-x6pl9v.jpg"
 ---
 
